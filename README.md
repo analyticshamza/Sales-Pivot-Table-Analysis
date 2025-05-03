@@ -48,7 +48,9 @@ The dataset contains the following fields:
 
 ![Image](https://github.com/user-attachments/assets/26f76b7d-8e97-4f17-b481-86f2937a3f5a)
 
+![Image](https://github.com/user-attachments/assets/77afbb60-7ad5-4a38-9a36-1dc917b65e84)
 
+---
 ## 🧠 Purpose of the Project
 
 This project is part of my learning journey in **data analytics** and **Excel reporting**. It helped me understand how to:
