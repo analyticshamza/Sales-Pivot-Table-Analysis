@@ -5,10 +5,10 @@ This project is a beginner-friendly Excel-based data analysis exercise focused o
 
 | Sheet Name                | Description |
 |--------------------------|-------------|
-| `Raw_Data`               | Original dataset containing sales details like product category, revenue, order quantity, profit, cost, discount, and region. |
-| `Revenue_By_Category`    | Pivot Table showing the **total revenue** for each product category. |
-| `Profit_Margin_By_Product` | Pivot Table with a **calculated field** showing profit margin (`Profit / Cost`) by product category. |
-| `Region_Filter_Slicer`   | Interactive Pivot Table with a **slicer** allowing filtering by region to analyze sales data dynamically. |
+| `Raw Data`               | Original dataset containing sales details like product category, revenue, order quantity, profit, cost, discount, and region. |
+| `Revenue By Category`    | Pivot Table showing the **total revenue** for each product category. |
+| `Profit Margin By Product` | Pivot Table with a **calculated field** showing profit margin (`Profit / Cost`) by product category. |
+| `Region Filter Slicer`   | Interactive Pivot Table with a **slicer** allowing filtering by region to analyze sales data dynamically. |
 
 ---
 
